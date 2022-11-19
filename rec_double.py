@@ -29,7 +29,7 @@ def main():
     if (length) < 0 or (length) > 100:
         input("You must enter a number in range 0-100")
         main()
-    if (num_of_times_run) or (num_of_times_run) > 100:
+    if (num_of_times_run) < 0 or (num_of_times_run) > 100:
         input("You must enter a number in range 0-100")
         main()
 
