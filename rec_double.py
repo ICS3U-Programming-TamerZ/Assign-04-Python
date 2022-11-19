@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created By: Tamer Zreg
-# Date: Oct. 26, 2022
+# Date: Nov. 18, 2022
 # This program outputs the product of all numbers preceding the user's
 # number using a while loop.
 
